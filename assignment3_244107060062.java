@@ -55,6 +55,8 @@ public class assignment3_244107060062 {
                     price = 150000;
                     System.out.println("The price is Rp." + price);
             }
+        } else {
+            System.out.println("Invalid shoe brand");
         }
     }
 }
